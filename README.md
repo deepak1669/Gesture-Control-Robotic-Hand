@@ -78,35 +78,35 @@ This project demonstrates the integration of Artificial Intelligence, Computer V
 
 Human Hand
 
-↓
+    ↓
 
 Laptop Webcam
 
-↓
+    ↓
 
 OpenCV + MediaPipe
 
-↓
+    ↓
 
 Python Processing
 
-↓
+    ↓
 
 Serial Communication (USB)
 
-↓
+    ↓
 
 Arduino UNO
 
-↓
+    ↓
 
 PCA9685 Servo Driver
 
-↓
+    ↓
 
 5 Servo Motors
 
-↓
+    ↓
 
 Robotic Hand Movement
 
